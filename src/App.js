@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import styled, { createGlobalStyle } from 'styled-components';
 import Home from './components/pages/Home/Home';
 import StudyGuide from './components/pages/StudyGuide/StudyGuide';
@@ -93,7 +93,10 @@ function App() {
             <Route path="/study-guide" element={<StudyGuide />} />
             <Route path="/study-guide/:experimentId" element={<DetailedStudyGuide />} />
             <Route path="/dso/:experimentId" element={<DSO />} />
-            <Route path="*" element={<div>404 - Page Not Found</div>} />
+            <Route path="*" element={<div style={{padding: '2rem', textAlign: 'center'}}>
+              <h1>404 - Page Not Found</h1>
+              <p>The page you're looking for doesn't exist.</p>
+            </div>} />
           </Routes>
         </MainContent>
         
