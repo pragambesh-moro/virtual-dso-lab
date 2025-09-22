@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/virtual-dso-lab/static/css/main.6028708b.css",
+    "main.js": "/virtual-dso-lab/static/js/main.cbe72ec9.js",
+    "static/js/453.f2413556.chunk.js": "/virtual-dso-lab/static/js/453.f2413556.chunk.js",
+    "index.html": "/virtual-dso-lab/index.html",
+    "main.6028708b.css.map": "/virtual-dso-lab/static/css/main.6028708b.css.map",
+    "main.cbe72ec9.js.map": "/virtual-dso-lab/static/js/main.cbe72ec9.js.map",
+    "453.f2413556.chunk.js.map": "/virtual-dso-lab/static/js/453.f2413556.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6028708b.css",
+    "static/js/main.cbe72ec9.js"
+  ]
+}
