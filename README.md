@@ -268,7 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Authors
 
-- **Your Name** - *Pragambesh Moro*
+- **Pragambesh Moro**
 - **Contributors** - See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the list of contributors
 
 ## 🙏 Acknowledgments
